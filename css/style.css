@@ -1,0 +1,12 @@
+*::selection {
+    background-color: #179b5db6;
+}
+
+.cell-hover:hover {
+    color: #0c804a; 
+    
+}
+
+.table>:not(:last-child)>:last-child>* {
+    border-bottom-color: #000 !important;
+}
